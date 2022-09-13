@@ -7,3 +7,4 @@
 6)To compile and execute a C source code to calculate factorial of a given number using recursion. 
 To compile and execute a C source code to calculate fibonacci series of a given number using recursion. 
 To compile and execute a C  source code to perform Insertion sort. 
+To compile and execute a C  source code to perform Quick sort. 
