@@ -6,3 +6,4 @@
 5)To compile and execute a C source code to  swap two numbers using pointers
 6)To compile and execute a C source code to calculate factorial of a given number using recursion. 
 To compile and execute a C source code to calculate fibonacci series of a given number using recursion. 
+To compile and execute a C  source code to perform Insertion sort. 
