@@ -8,3 +8,6 @@
 To compile and execute a C source code to calculate fibonacci series of a given number using recursion. 
 To compile and execute a C  source code to perform Insertion sort. 
 To compile and execute a C  source code to perform Quick sort. 
+To compile and execute a C source code to delete an element in the array at the end of the array
+To compile and execute a C  source code to perform linear stack operations. 
+To compile and execute a C  source code to perform linear stack operations. 
