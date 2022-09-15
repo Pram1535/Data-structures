@@ -14,3 +14,11 @@ To compile and execute a C  source code to perform linear stack operations.
 To compile and execute a C source code to  inventory report for customers
 To compile and execute a C source code to  swap two numbers using pointers
 To compile and execute a C source code to calculate factorial of a given number using recursion. 
+To compile and execute a C source code to calculate fibonacci series of a given number using recursion
+To compile and execute a C source code to search for an element in the array using linear search algorithm. 
+To compile and execute a C source code to search for an element in the array using binary search algorithm
+To compile and execute a C source code to insert an element in the array at the end of the array.
+To compile and execute a C source code to delete an element in the array at the end of the array
+To compile and execute a C  source code to perform linear stack operations. 
+To compile and execute a C  source code to perform linear stack operations
+To compile and execute a C  source code to perform linked list operations. 
