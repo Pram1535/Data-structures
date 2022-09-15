@@ -11,3 +11,6 @@ To compile and execute a C  source code to perform Quick sort.
 To compile and execute a C source code to delete an element in the array at the end of the array
 To compile and execute a C  source code to perform linear stack operations. 
 To compile and execute a C  source code to perform linear stack operations. 
+To compile and execute a C source code to  inventory report for customers
+To compile and execute a C source code to  swap two numbers using pointers
+To compile and execute a C source code to calculate factorial of a given number using recursion. 
